@@ -7,7 +7,7 @@ const UserReducer = (state, action) =>{
         case GET_USERS:
             return {
                 ...state,
-                users: payload
+                user: payload
             }
         case GET_PROFILE:
             return {
