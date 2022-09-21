@@ -1,0 +1,5 @@
+.d_flex{
+    display: flex;
+    width: 1000px;
+    margin: 25px auto;
+}
